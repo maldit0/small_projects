@@ -6,6 +6,6 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/lib/
-/lib64/
-/bin/
+../lib/
+../lib64/
+../bin/
