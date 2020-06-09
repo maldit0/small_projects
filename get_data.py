@@ -27,6 +27,9 @@ def main():
             t.write(str(n) + '.-' + each.title + '\n')
             t.write(each.content)
 
+def test():
+    pass
+
 
 if __name__ == '__main__':
     main()
